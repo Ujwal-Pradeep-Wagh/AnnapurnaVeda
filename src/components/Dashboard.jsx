@@ -9,15 +9,15 @@ import MovingFooter from './MovingFooter';
 
 
 
-import  dietPlans from  "../assets/DashboardLogos/diet-plan.png";
+import  dietPlans from  "../assets/DashBoardLogos/diet-plan.png";
 import  recipes from "../assets/DashBoardLogos/rec-bg.png"
 import  clinics from "../assets/DashBoardLogos/image-removebg-preview.png"
-import  consult from "../assets/DashBoardLogos/consult logo.png"
+import  consult from "../assets/DashBoardLogos/consult-logo.png"
 
-import  complaint from "../assets/DashBoardLogos/complaint logo.png"
-import  doshas from "../assets/DashBoardLogos/exploring doshas logo.png"
-import  food from "../assets/DashBoardLogos/food check logo.png"
-import  tasks from "../assets/DashBoardLogos/tasks logo.png"
+import  complaint from "../assets/DashBoardLogos/complaint-logo.png"
+import  doshas from "../assets/DashBoardLogos/exploring-doshas-logo.png"
+import  food from "../assets/DashBoardLogos/food-check-logo.png"
+import  tasks from "../assets/DashBoardLogos/tasks-logo.png"
 
 // --- Data for the Dashboard Cards ---
 const cardData = [

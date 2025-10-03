@@ -1,13 +1,14 @@
 import React from 'react';
 import './DietChart.css'; // Linking the CSS file
 import q from '../assets/PhotoGallery/oatmeal.jpeg'
-import w from '../assets/PhotoGallery/chicken salad.jpeg'
-import r from  '../assets/PhotoGallery/baked salmon with veggies.jpeg'
+import w from '../assets/PhotoGallery/chicken-salad.jpeg'
+import r from  '../assets/PhotoGallery/baked-salmon-with-veggies.jpeg'
 
 import s from '../assets/PhotoGallery/salad.jpeg'
 import  t from '../assets/PhotoGallery/oatmeal.jpeg'
-import u from '../assets/PhotoGallery/chicken salad.jpeg'
-import v from '../assets/PhotoGallery/baked salmon with veggies.jpeg'
+import u from '../assets/PhotoGallery/chicken-salad.jpeg'
+import v from '../assets/PhotoGallery/baked-salmon-with-veggies.jpeg'
+
 
 import b from '../assets/PhotoGallery/salad.jpeg'
 // --- SVG Icons ---
