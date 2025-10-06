@@ -29,7 +29,7 @@ import Consulting from './components/ConsultDoctor';
 // Importing Signing
 
 
-export default function App() {
+export default function () {
   return (
     <BrowserRouter>
       <Routes>
