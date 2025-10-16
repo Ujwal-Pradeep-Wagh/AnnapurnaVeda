@@ -172,7 +172,7 @@ function TasksPage() {
                         key={category.id}
                         title={category.title}
                         tasks={category.tasks}
-                        onToggle={(taskId) => (category.id, taskId)}
+                        onToggle={(taskId) =>handleToggle (category.id, taskId)}
                     />
                 ))}
             </div>
